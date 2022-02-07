@@ -1,3 +1,7 @@
 archivo1
 hola1
+<<<<<<< HEAD
 nueva modificacion en el trunk
+=======
+nueva modificacion
+>>>>>>> actividad3
