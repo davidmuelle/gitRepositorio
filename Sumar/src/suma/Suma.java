@@ -26,7 +26,8 @@ public class Suma {
 				
 			}
 			else {
-				System.out.println("No son positivos");
+				System.out.println("No positivos");
+				
 			}
 			System.out.println("¿Quieres seguir sumando? s/n");
 			respuesta=teclado.next();
