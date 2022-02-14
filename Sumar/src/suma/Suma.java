@@ -31,6 +31,8 @@ public class Suma {
 				
 			}
 			System.out.println("¿Quieres seguir sumando? s/n");
+			//estoy modificando la rama de pruebas
+			//estoy modificando la rama de pruebas
 			respuesta=teclado.next();
 		}
 		teclado.close();
