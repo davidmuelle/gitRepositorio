@@ -8,7 +8,7 @@ public class Suma {
 		// TODO Esbozo de método generado automáticamente
 		suma();
 	}
-
+//creando conflicto en master
 	public static void suma() {
 		int a,b, resultado;
 		String respuesta="s";
